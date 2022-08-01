@@ -1,24 +1,7 @@
 # vue-tool
 
-## Project setup
+## 关于此项目
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+初衷是为了方便大家在工作时使用各自各样的插件 不需要再次开发 故需要考虑组件的可维护性和可扩展性 同时尽可能提高组件效率及样式
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
